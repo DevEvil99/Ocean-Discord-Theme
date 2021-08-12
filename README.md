@@ -17,4 +17,5 @@
 
 # Links 
 **[Support Server](https://dsc.gg/devevil)**
+**[Contact](https://devevil.xyz/contact)**
 
