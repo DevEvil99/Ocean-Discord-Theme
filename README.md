@@ -19,3 +19,6 @@
 **[Support Server](https://dsc.gg/devevil)** <br>
 **[Contact](https://devevil.xyz/contact)**
 
+
+**Made with ❤ by [DevEvil#8745](https://devevil.xyz/)**
+
