@@ -16,6 +16,6 @@
 ![logo](https://cdn.discordapp.com/attachments/468141324906921984/875293914481950730/unknown.png)
 
 # Links 
-**[Support Server](https://dsc.gg/devevil)**
+**[Support Server](https://dsc.gg/devevil)** <br>
 **[Contact](https://devevil.xyz/contact)**
 
