@@ -1,5 +1,6 @@
 # Ocean
 **Highly customized and customizable theme for Discord**
+**[Download From BetterDiscord](https://betterdiscord.app/theme/Ocean)**
 
 ![logo](https://cdn.discordapp.com/attachments/468141324906921984/874986058562043984/background.png)
 
