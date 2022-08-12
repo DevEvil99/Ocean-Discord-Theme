@@ -21,5 +21,5 @@
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
 **[Contact](https://devevil.com/contact)** <br>
 
-**Made with ❤ by [DevEvil#8745](https://devevil.com/)**
+**Made with 💙 by [DevEvil#8745](https://devevil.com/)**
 
