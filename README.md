@@ -8,6 +8,7 @@
 
 
 ![logo](https://cdn.discordapp.com/attachments/468141324906921984/875302120553861160/main.png)
+(This image is the first version of Ocean, I'm lazy so I haven't changed it yet)
 
 # User customization
 **This theme is very customizable. The variables in the theme file allow you to change many things**
