@@ -32,8 +32,8 @@
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Ocean/Ocean.theme.css');
 
 :root {
-  --ocean-bg: url(https://cdn.discordapp.com/attachments/468141324906921984/874986058562043984/background.png);
-  --ocean-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/874999698426068992/ocean-home-icon.png);
+  --ocean-bg: url(https://devevil.com/betterdiscord/ocean-background.png);
+  --ocean-home-icon: url(https://devevil.com/betterdiscord/ocean-home-icon.png);
   --ocean-color1: #00d5ce;
   --ocean-color2: #0a173a;
   --ocean-color3: #1487b1;
