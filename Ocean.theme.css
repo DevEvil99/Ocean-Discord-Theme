@@ -1,7 +1,7 @@
 /**
   *	@name Ocean
   *	@author DevEvil
-  *	@version 3
+  *	@version 3.1
   *	@description Highly customized and customizable theme for Discord
   * @authorId 468132563714703390
   * @authorLink https://devevil.com
@@ -33,8 +33,8 @@
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Ocean/Ocean.theme.css');
 
 :root {
-  --ocean-bg: url(https://devevil.com/betterdiscord/ocean-background.png);
-  --ocean-home-icon: url(https://devevil.com/betterdiscord/ocean-home-icon.png);
+  --ocean-bg: url(https://i.imgur.com/weOUkrT.png);
+  --ocean-home-icon: url(https://i.imgur.com/knu0gJQ.png);
   --ocean-color1: #00d5ce;
   --ocean-color2: #0a173a;
   --ocean-color3: #1487b1;
