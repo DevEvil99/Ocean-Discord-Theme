@@ -6,17 +6,17 @@
 </div>
 <br>
 
-![ocean_main](https://github.com/DevEvil99/Ocean-Discord-Theme/assets/73029696/a508f46b-5cbd-4bb6-bc1a-77558c021763)
-(Note: This image is from the old version of the theme, many things have been improved since.)
+![ocean](https://github.com/user-attachments/assets/fbdde0e0-d8ad-4da7-9249-b2a9a6402b46)
+
 
 # User customization
-**This theme is very customizable. The variables in the theme file allow you to change many things**
 - **Background image**
 - **Home icon**
 - **Colors**
 
-# My Other Themes
-- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
+# All of my themes
+- **[Dark+](https://betterdiscord.app/theme/Dark+)**
+- **[Ocean](https://betterdiscord.app/theme/Ocean)**
 - **[Neptune](https://betterdiscord.app/theme/Neptune)**
 - **[Azurite](https://betterdiscord.app/theme/Azurite)**
 - **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
